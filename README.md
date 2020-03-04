@@ -1,2 +1,2 @@
 # Capstone-2-Project
-Fitness recommendation system based on client goals
+Health and Wellness recommendations and predictions.
