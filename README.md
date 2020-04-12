@@ -1,7 +1,8 @@
 # Capstone-2-Project**
-Predicting Health using the National Health and Nutrition Survey 
+Predicting Health using the National Health and Nutrition Survey.
 https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
-More information on the NHANES survey can be found on the Center for Disease Control and Prevention’s website https://www.cdc.gov/Nchs/Nhanes/about_nhanes.htm.
+More information on the NHANES survey can be found on the Center for Disease Control and Prevention’s website.
+https://www.cdc.gov/Nchs/Nhanes/about_nhanes.htm.
 
 
 **Problem Statement**
