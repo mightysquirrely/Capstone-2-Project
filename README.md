@@ -1,5 +1,8 @@
 # Capstone-2-Project**
-Predicting Health using the National Health and Nutrition Survey
+Predicting Health using the National Health and Nutrition Survey 
+https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
+More information on the NHANES survey can be found on the Center for Disease Control and Prevention’s website https://www.cdc.gov/Nchs/Nhanes/about_nhanes.htm.
+
 
 **Problem Statement**
 There are many factors that impact the health and wellness of human society.  It should be possible to reduce the occurrence of particular health concerns if those factors with high impact can be identified. The goal of this project is to use statistical inference and machine learning to explore if predictions in certain illnesses can be made related to habits, nutrition, BMI, and bloodwork.  
