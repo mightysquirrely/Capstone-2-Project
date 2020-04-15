@@ -16,6 +16,9 @@ This could lead to people wanting to research particular findings in more depth 
 
 **Conclusions:**
 
-A scatterplot analysis for participants identified with arthritis indicates lower platelet and Creatine Phosphokinase(CPK) counts. Based on this visual alone, a hyphotheses statement such that a participant with low levels of CPK and low platelet counts have a good chance of being told by a health professional that they have arthritis. Further the plot suggests that higher counts for both CPK and platelets relates to those not being diagnosed with arthritis. 
+Arthritis
+The participants with low levels of creatine phosphokinase and low platelet counts have a good chance of being told by a health professional that they have arthritis. Further, it suggests that higher counts for both creatine phosphokinase and platelets relates to those not being diagnosed with arthritis.
 
-A confusion matrix and kmeans clustering technique were used to look at participants with asthma.  The classification rate is around 55%, which is good accuracy in that it is more than 50%. 
+Asthma
+The participants with asthma ranked higher in particular categories from this study.  It is seen in the k-means clustering findings.  This indicates that indeed it cannot be ruled out that particular categories influence having asthma such as levels of creatine phosphokinase, chemical pesticide and weed kill use, sedentary activity in a day, using milk regularly, and BMI at age 25. 
+
