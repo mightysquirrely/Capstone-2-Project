@@ -19,6 +19,11 @@ This could lead to people wanting to research particular findings in more depth 
 Arthritis
 The participants with low levels of creatine phosphokinase and low platelet counts have a good chance of being told by a health professional that they have arthritis. Further, it suggests that higher counts for both creatine phosphokinase and platelets relates to those not being diagnosed with arthritis.
 
+Correlations
+The study suggests that people who have vigorous and moderate intensity type of active work, often walk or bicycle for transportation.  It further suggests that people who drank milk during their younger years have little connection to whether they drink milk now.  
+
 Asthma
 The participants with asthma ranked higher in particular categories from this study.  It is seen in the k-means clustering findings.  This indicates that indeed it cannot be ruled out that particular categories influence having asthma such as levels of creatine phosphokinase, chemical pesticide and weed kill use, sedentary activity in a day, using milk regularly, and BMI at age 25. 
+
+ 
 
